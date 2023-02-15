@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\bin\Debug\net6.0\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.exe
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\bin\Debug\net6.0\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.deps.json
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\bin\Debug\net6.0\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.runtimeconfig.json
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\bin\Debug\net6.0\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.dll
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\bin\Debug\net6.0\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.pdb
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\obj\Debug\net6.0\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\obj\Debug\net6.0\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\obj\Debug\net6.0\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\obj\Debug\net6.0\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\obj\Debug\net6.0\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\obj\Debug\net6.0\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.dll
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\obj\Debug\net6.0\refint\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.dll
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\obj\Debug\net6.0\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.pdb
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\obj\Debug\net6.0\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar\obj\Debug\net6.0\ref\C#101 Ödev 4 Try-Catch-Finally ve Mantıksal Hatalar.dll
